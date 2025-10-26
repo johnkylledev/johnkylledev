@@ -1,38 +1,69 @@
-# 👋 Hi, I'm John Kylle
+<h1 align="center">👋 Hi, I'm John Kylle</h1>
+<p align="center">
+  💻 <strong>Student | Tech Enthusiast</strong><br/>
+  I love building useful apps, smart systems, and modern websites.
+</p>
 
-💻 ** Student | Tech Enthusiast**  
-I love building useful apps, smart systems, and modern websites.
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=70A4FC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C%23+%7C+React+%7C+Firebase;Always+Learning+New+Things+💡" alt="Typing Animation" />
+</p>
 
 ---
 
 ### 🧠 About Me
-- 🔹 Learning **Web Development & AI**
-- 🔹 Experienced in **C#, Java, React, Firebase**
-- 🔹 Passionate about clean UI and automation
+- 🔹 Learning **Web Development & AI**  
+- 🔹 Experienced in **C#, Java, React, Firebase**  
+- 🔹 Passionate about clean UI and automation  
 
 ---
 
 ### 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,java,csharp,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/johno948/smart-quiz" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johno948&repo=smart-quiz&theme=tokyonight&border_radius=12" />
+  </a>
+  <a href="https://github.com/johno948/school-management-system" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johno948&repo=school-management-system&theme=tokyonight&border_radius=12" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johno948&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johno948&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johno948&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johno948&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johno948&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 
 ### 🏷️ Badges
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge)
-![Made with ❤️ by John Kylle](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20John%20Kylle-red?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20John%20Kylle-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-📫 **Reach me:** johnkoop03@gmail.com
+### 🎨 Animated Card
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=John%20Kylle%20👨‍💻&width=800&height=180" alt="Animated Banner" />
+</p>
 
+---
+
+📫 **Reach me:** [johnkoop03@gmail.com](mailto:johnkoop03@gmail.com)

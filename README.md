@@ -23,8 +23,8 @@ I love building useful apps, smart systems, and modern websites.
 ---
 
 ### 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johno948&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johno948&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -34,4 +34,5 @@ I love building useful apps, smart systems, and modern websites.
 
 ---
 
-📫 **Reach me:** youremail@gmail.com
+📫 **Reach me:** johnkoop03@gmail.com
+

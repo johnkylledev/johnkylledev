@@ -24,19 +24,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,java,csharp,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
----
-
-### 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/johno948/smart-quiz" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johno948&repo=smart-quiz&theme=tokyonight&border_radius=12" />
-  </a>
-  <a href="https://github.com/johno948/school-management-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johno948&repo=school-management-system&theme=tokyonight&border_radius=12" />
-  </a>
-</div>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">

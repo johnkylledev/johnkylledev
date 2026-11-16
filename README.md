@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi! I'm **John Kylle Pantorilla**, a **Web Developer** from **Valencia City, Bukidnon, Philippines** 🇵🇭
+Hi! I'm **John Kylle Pantorilla**, a **Software Developer** from **Valencia City, Bukidnon, Philippines** 🇵🇭, and the founder of **[LaneRent](https://lanerent.com)**
 
 **Websites and web apps that businesses actually run on.**
 
@@ -67,6 +67,7 @@ I build complete systems, not just pages — the public site, the admin panel be
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[LaneRent](https://lanerent.com)** | My own product: online booking for rental shops, with bookings that never clash and an owner dashboard | React · Node.js · Supabase · PostgreSQL |
 | **[Bits Fiber](https://bitsfiberopc.com)** | Fiber provider platform — customer applications, status tracking, and promo management in one admin dashboard | Next.js · PostgreSQL · Supabase · Tailwind |
 | **[Kapital Juan Insurance](https://www.kapitaljuaninsurance.com/)** | Online insurance quotations with a three-step form, admin panel, and auto-generated quote emails | Next.js · Supabase · Resend · PWA |
 | **[Wisestate.ph](https://www.wisestate.ph/)** | Property platform with listing submissions and streamlined rental inquiries | Next.js · TypeScript · Tailwind · Vercel |
@@ -78,7 +79,7 @@ I build complete systems, not just pages — the public site, the admin panel be
 | **[BansaSim](https://bansa-sim.vercel.app)** | Philippine macroeconomic policy simulator with five-year forecasting on PSA and IMF baselines | Next.js · Chart.js · TypeScript |
 | **[Personal Portfolio](https://www.johnkyllepantorilla.com)** | Static-fast portfolio with a built-in AI assistant that answers visitor questions | Next.js · Groq · GPT-OSS |
 
-→ Full case studies at **[johnkyllepantorilla.com](https://www.johnkyllepantorilla.com/#projects)**
+→ Full case studies at **[johnkyllepantorilla.com](https://www.johnkyllepantorilla.com/projects)**
 
 ---
 

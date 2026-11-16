@@ -1,17 +1,17 @@
 # 💫 About Me
 
-Hi! I'm **John Kylle Pantorilla**, a **Software Developer** from **Valencia City, Bukidnon, Philippines** 🇵🇭, and the founder of **[LaneRent](https://lanerent.com)**
+Hi! I'm **John Kylle Pantorilla**, a **Software Developer** from **Valencia City, Bukidnon, Philippines** 🇵🇭, and the founder of **[LaneRent](https://lanerent.com)**.
 
-**Websites and web apps that businesses actually run on.**
+**I build production web applications end to end.**
 
-I build complete systems, not just pages — the public site, the admin panel behind it, the database under that, and the deployment that keeps it running. One person who knows the whole stack, from design to production.
+Data model, backend, frontend, admin dashboards, deployment and monitoring after launch. Everything below is live and used by real businesses every day.
 
 - 🧩 **Full systems, not just pages** — Kapital Juan's quote requests land in one admin panel and send their own quotation emails; Bits Fiber reviews every new connection application in one dashboard
-- 📈 **Business sites that turn visitors into inquiries** — property listings for Wisestate.ph, event bookings for FM Lightrix, 24/7 towing calls for Kuya Pooch
+- 📈 **Sites people use daily** — property listings for Wisestate.ph, event bookings for FM Lightrix, 24/7 towing calls for Kuya Pooch
 - 🤖 **AI where it actually helps** — from Kiro's meal-planning assistant to the assistant you can ask on my portfolio
-- 🌱 Self-taught since 2024: HTML, CSS, JavaScript and accessibility first, then frameworks, then straight into client work
+- 🌱 Self-taught since 2024: HTML, CSS, JavaScript and accessibility first, then frameworks, then shipping production apps
 
-> 🟢 **Open to work** · Replies within 24 hours · Valencia City · GMT+8
+> 🟢 **Open to full-time and contract roles** · Remote · Valencia City, GMT+8
 
 ---
 
@@ -103,8 +103,8 @@ I build complete systems, not just pages — the public site, the admin panel be
 
 ---
 
-## 💬 Have a project in mind?
+## 💬 Hiring?
 
-Send a few lines about what you need. Within 24 hours I'll reply with questions, a rough timeline, and a quote.
+I'm open to **full-time and contract software developer roles**, remote (GMT+8), and usually reply within 24 hours.
 
-**[hello@johnkyllepantorilla.com](mailto:hello@johnkyllepantorilla.com?subject=Project%20inquiry)**
+**[hello@johnkyllepantorilla.com](mailto:hello@johnkyllepantorilla.com?subject=Role%20inquiry)** · [LinkedIn](https://www.linkedin.com/in/john-kylle-pantorilla) · [Portfolio](https://www.johnkyllepantorilla.com)

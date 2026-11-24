@@ -11,7 +11,7 @@ Data model, backend, frontend, admin dashboards, deployment and monitoring after
 - 🤖 **AI where it actually helps** — from Kiro's meal-planning assistant to the assistant you can ask on my portfolio
 - 🌱 Self-taught since 2024: HTML, CSS, JavaScript and accessibility first, then frameworks, then shipping production apps
 
-> 🟢 **Open to full-time and contract roles** · Remote · Valencia City, GMT+8
+> 🟢 **Open to part-time and contract roles** · Remote · Valencia City, GMT+8
 
 ---
 
